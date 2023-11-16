@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'MeShare',
 
-  projectId: 'sdykuk0h',
+  projectId: '',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],

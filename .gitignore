@@ -14,7 +14,8 @@
 # Logs
 /logs
 *.log
-
+sanity.cli.js
+sanity.config.js
 # Coverage directory used by testing tools
 /coverage
 

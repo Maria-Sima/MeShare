@@ -9,7 +9,8 @@
     "start": "sanity start",
     "build": "sanity build",
     "deploy": "sanity deploy",
-    "deploy-graphql": "sanity graphql deploy"
+    "deploy-graphql": "sanity graphql deploy",
+    "manage": "sanity manage"
   },
   "keywords": [
     "sanity"
@@ -31,7 +32,7 @@
   },
   "prettier": {
     "semi": false,
-    "printWidth": 100,
+    "printWidth": 20,
     "bracketSpacing": false,
     "singleQuote": true
   }
